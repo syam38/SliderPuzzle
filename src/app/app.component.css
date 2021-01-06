@@ -10,8 +10,8 @@
 .btn {
     width: 60px ;
 }   
-.hide{
-    opacity:0
+.hide-tile {
+    opacity:0;
 }
 .play{
     width:auto !important;
